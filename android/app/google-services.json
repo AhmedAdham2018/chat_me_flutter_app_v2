@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291684063169",
+    "project_id": "chat-me-8d4a0",
+    "storage_bucket": "chat-me-8d4a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291684063169:android:206d023d146def23114140",
+        "android_client_info": {
+          "package_name": "com.adham.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291684063169-lp07jme8kveso6ggk38tu9go611agmc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiD4nm34WVHosXOjTwjr5qYTueczXhKN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291684063169-lp07jme8kveso6ggk38tu9go611agmc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
